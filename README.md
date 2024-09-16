@@ -77,7 +77,7 @@ You will need:
 
 You can view a demo of the project in action here:
 
-[![Demo Video](https://img.shields.io/badge/Watch%20Video-Demo-red)](https://github.com/Kanad-Patel/I-See/blob/main/Demo.mp4)
+[![Demo Video](https://img.shields.io/badge/Watch%20Video-Demo-red)](https://github.com/Kanad-Patel/I-See/blob/main/Control.mp4)
 
 ## Contribution
 
